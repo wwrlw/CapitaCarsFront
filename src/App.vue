@@ -2,8 +2,8 @@
 </script>
 
 <template>
-  <header>
-    <h1> Hello, vue3</h1>
+  <header class="w-[123px] caret-amber-300 bg-amber-400">
+    <h1 class="text-3xl font-bold underline"> Hello, vue3</h1>
   </header>
 
   <main>
